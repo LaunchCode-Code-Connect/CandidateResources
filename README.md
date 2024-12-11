@@ -1,5 +1,3 @@
-![LaunchCode logo with a rocket in the middle written in dark blue ](https://drive.google.com/file/d/11Nmr4PgIN1bY9Yb8BRIwXLaVtGSdNe27/view?usp=drive_link)
-
 # Welcome to the Candidate Resources Repo!
 
 ### Current Top Skills
