@@ -1,0 +1,2 @@
+# CandidateResources
+test
